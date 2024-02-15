@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-11T22:54:22.037Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-02-10T22:54:22.037Z"
+    },
+    {
+      "id": 3,
+      "description": "Voou",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 950,
+      "createdAt": "2024-02-10T22:54:22.037Z"
+    },
+    {
+      "description": "App",
+      "price": 2000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-02-12T13:02:14.022Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-02-12T13:14:44.705Z",
+      "id": 5
+    },
+    {
+      "description": "Coca",
+      "price": 10,
+      "category": "Bebida",
+      "type": "outcome",
+      "createdAt": "2024-02-12T13:15:07.732Z",
+      "id": 6
+    }
+  ]
+}
